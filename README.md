@@ -20,8 +20,8 @@ Além disso, para facilitar a visualização do código você vai precisar de um
 
 #### Rodando a aplicação 🚀
 
-```bash
 
+```bash
 #realize o clone do repositório
 $ git clone https://github.com/mauriciolsfilho/desafio01-ignite
 ```
@@ -36,6 +36,5 @@ $ yarn
 ```bash 
 #execute o projeto
 $ yarn dev
-
-#a aplicação estará em execução em: localhost:8080
 ```
+_A servidor estará em execução em: localhost:8080_
